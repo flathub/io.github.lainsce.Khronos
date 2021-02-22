@@ -115,8 +115,8 @@
             "sources" : [
                 {
                     "type" : "archive",
-                    "url" : "https://github.com/lainsce/khronos/archive/3.5.1.tar.gz",
-                    "sha256" : "fedbe1286b549b624db782a5ef3ad5c205fb44d0647c5867a791116050593ee0"
+                    "url" : "https://github.com/lainsce/khronos/archive/3.5.2.tar.gz",
+                    "sha256" : "b3c5f6e60a5afa0ce033ef70a9c5f95a6711833ae388173c83c4ee8712ee039c"
                 }
             ]
         }
