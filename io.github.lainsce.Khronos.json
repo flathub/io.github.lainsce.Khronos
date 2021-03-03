@@ -88,8 +88,8 @@
             "sources" :  [
                 {
                     "type" : "archive",
-                    "url" : "https://download.gnome.org/sources/gtk/4.1/gtk-4.1.0.tar.xz",
-                    "sha256" : "973f651722a847e91e12be0a1c1c610aae0961f2f8d55c5d1fa39e17267d7ada"
+                    "url" : "https://download.gnome.org/sources/gtk/4.1/gtk-4.1.1.tar.xz",
+                    "sha256" : "f7e1789f6c637b091cffb17de08bd9c3986543282eecdff0750dd04f1673b737"
                 }
             ]
         },
@@ -115,8 +115,8 @@
             "sources" : [
                 {
                     "type" : "archive",
-                    "url" : "https://github.com/lainsce/khronos/archive/3.5.2.tar.gz",
-                    "sha256" : "b3c5f6e60a5afa0ce033ef70a9c5f95a6711833ae388173c83c4ee8712ee039c"
+                    "url" : "https://github.com/lainsce/khronos/archive/3.5.3.tar.gz",
+                    "sha256" : "556d59a76adbf945b8b87e922dac47c2f572ca8b982236d3896e2c90f8d7c96b"
                 }
             ]
         }
