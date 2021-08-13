@@ -78,8 +78,7 @@
                 {
                     "type" : "git",
                     "url" : "https://gitlab.gnome.org/GNOME/libadwaita.git",
-                    "branch" : "main",
-                    "commit" : "9a52895fcd5a906791606400db1028fa0e527854"
+                    "branch" : "main"
                 }
             ]
         },
@@ -89,8 +88,8 @@
             "sources" : [
                 {
                     "type" : "archive",
-                    "url" : "https://github.com/lainsce/khronos/archive/3.5.5.tar.gz",
-                    "sha256" : "ed6023157516d2dbfe626b1a1e38d559ea032b0777b7da3de55a84538f3765a5"
+                    "url" : "https://github.com/lainsce/khronos/archive/3.5.6.tar.gz",
+                    "sha256" : "5b5acd3ae25c2092e2753255a2567cc5e7b5c75d84a68bee98241d352d0f07f4"
                 }
             ]
         }
