@@ -5,11 +5,8 @@
     "sdk" : "org.gnome.Sdk",
     "command" : "io.github.lainsce.Khronos",
     "finish-args" : [
-        "--filesystem=xdg-documents",
-        "--filesystem=xdg-download",
         "--socket=wayland",
         "--socket=fallback-x11",
-        "--share=network",
         "--share=ipc"
     ],
     "cleanup" : [
