@@ -1,7 +1,7 @@
 {
     "app-id" : "io.github.lainsce.Khronos",
     "runtime" : "org.gnome.Platform",
-    "runtime-version" : "40",
+    "runtime-version" : "41",
     "sdk" : "org.gnome.Sdk",
     "command" : "io.github.lainsce.Khronos",
     "finish-args" : [
@@ -85,8 +85,8 @@
             "sources" : [
                 {
                     "type" : "archive",
-                    "url" : "https://github.com/lainsce/khronos/archive/3.5.9.tar.gz",
-                    "sha256" : "c3ada308f8dbfee9e0135127e8087f7c7905b81810eb4849ceaee839c9f23e42"
+                    "url" : "https://github.com/lainsce/khronos/archive/3.6.0.tar.gz",
+                    "sha256" : "820cdeb08d6bf602196eb14baf672c541123475b738ff5b45e25c97446df1e47"
                 }
             ]
         }
