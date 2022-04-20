@@ -4,6 +4,7 @@
     "runtime-version" : "42",
     "sdk" : "org.gnome.Sdk",
     "command" : "io.github.lainsce.Khronos",
+    "rename-icon" : "io.github.lainsce.Khronos",
     "finish-args" : [
         "--socket=wayland",
         "--socket=fallback-x11",
