@@ -42,7 +42,7 @@
                 {
                     "type" : "archive",
                     "url" : "https://github.com/lainsce/khronos/archive/4.0.1.tar.gz",
-                    "sha256" : "290c6ed35023149ee72078644281cf4f7b53f20c5ebc571de73d34035e69a050"
+                    "sha256" : "cb342d46e20d6933cde7c9a5e9672cc0bd0d760fc9366d53b7a8bdcecb49fcb4"
                 }
             ]
         }
