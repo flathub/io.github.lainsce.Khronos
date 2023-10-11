@@ -41,7 +41,7 @@
             "sources" : [
                 {
                     "type" : "archive",
-                    "url" : "https://github.com/lainsce/khronos/archive/3.7.0.tar.gz",
+                    "url" : "https://github.com/lainsce/khronos/archive/4.0.1.tar.gz",
                     "sha256" : "290c6ed35023149ee72078644281cf4f7b53f20c5ebc571de73d34035e69a050"
                 }
             ]
