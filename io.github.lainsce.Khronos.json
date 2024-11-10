@@ -43,6 +43,10 @@
                     "type" : "archive",
                     "url" : "https://github.com/lainsce/khronos/archive/4.0.1.tar.gz",
                     "sha256" : "cb342d46e20d6933cde7c9a5e9672cc0bd0d760fc9366d53b7a8bdcecb49fcb4"
+                },
+                {
+                    "type" : "patch",
+                    "path" : "fix-appdata.patch"
                 }
             ]
         }
